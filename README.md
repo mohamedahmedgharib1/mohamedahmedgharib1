@@ -1,5 +1,5 @@
 
-## Mohamed Ahmed Gharib 👋
+👋 Mohamed Ahmed Gharib 👋
 
 <!--
 **mohamedahmedgharib1/mohamedahmedgharib1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
